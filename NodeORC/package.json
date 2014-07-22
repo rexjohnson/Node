@@ -1,0 +1,24 @@
+{
+  "name": "ORC",
+  "main": "app.js",
+  "dependencies" : {
+    "express" : "~3.4.4", 			
+    "ejs" : "~0.8.5", 				
+    "mongoose" : "~3.8.1", 	
+	  "node-uuid":"~1.4.1",
+    "passport" : "~0.1.17",
+	  "http":"~0.0.0",
+    "passport-local" : "~0.1.6", 
+    "connect-flash" : "~0.1.1", 	
+    "bcrypt-nodejs" : "latest",	
+	  "mysql" : "latest",	
+	  "node-uuid":"latest",
+	  "nodemailer":"latest",
+	  "async":"~0.8.0",
+    "express-myconnection":"latest",
+    "ejs":"latest",
+    "socket.io":"~0.9.16",
+    "node-tesseract":"~0.2.6"
+  }
+}
+	
